@@ -47,4 +47,4 @@ Feel free to [open
 issues](https://github.com/y7kim/agency-jekyll-theme/issues/new) if you
 run into trouble or have suggestions.
 
-Pull Requests always welcome.
+Pull Requests never welcome.
