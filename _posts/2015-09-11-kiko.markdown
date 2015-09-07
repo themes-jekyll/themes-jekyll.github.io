@@ -4,7 +4,7 @@ homepage: https://github.com/gfjaru/Kiko
 download: https://github.com/gfjaru/Kiko/releases
 demo: https://gfjaru.github.io/Kiko
 author: gfjaru
-thumbnail: kiko.png
+thumbnail: kiko.jpg
 license: MIT License
 license_link: https://github.com/gfjaru/Kiko/blob/gh-pages/README.md
 github_repo: gfjaru/Kiko
