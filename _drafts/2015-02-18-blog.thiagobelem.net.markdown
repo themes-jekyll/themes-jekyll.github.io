@@ -1,0 +1,9 @@
+---
+layout: post
+title: blog.thiagobelem.net
+homepage: https://github.com/TiuTalk/blog.thiagobelem.net
+demo: http://blog.thiagobelem.net
+
+date: 2015-02-18 15:27:15
+---
+

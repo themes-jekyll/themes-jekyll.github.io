@@ -1,0 +1,14 @@
+---
+layout: post
+title: solo
+homepage: https://github.com/chibicode/solo
+demo: http://chibicode.github.io/solo
+date: 2014-01-25 00:53:09
+licence_link: https://github.com/chibicode/solo/blob/gh-pages/LICENSE
+---
+# Solo 
+
+[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+
+### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+

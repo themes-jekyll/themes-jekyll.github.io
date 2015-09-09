@@ -1,0 +1,11 @@
+---
+layout: post
+title: omgmog.github.com
+homepage: https://github.com/omgmog/omgmog.github.com
+demo: http://omgmog.github.com
+date: 2012-01-28 08:43:56
+---
+# Blomg
+
+This is my Jekyll-powered blog. You can view it at [blog.omgmog.net](https://blog.omgmog.net).
+

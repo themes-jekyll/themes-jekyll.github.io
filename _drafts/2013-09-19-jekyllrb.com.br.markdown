@@ -1,0 +1,24 @@
+---
+layout: post
+title: jekyllrb.com.br
+homepage: https://github.com/matheus/jekyllrb.com.br
+demo: http://jekyllrb.com.br
+date: 2013-09-19 22:30:14
+licence_link: https://github.com/matheus/jekyllrb.com.br/blob/gh-pages/LICENSE
+---
+jekyllrb.com.br
+===============
+
+Projeto da tradução do site e documentação do framework Jekyllrb.
+
+## Como participar?
+
+### Traduzindo
+Escolha uma parte para traduzir. Para isso [confira essa página](https://github.com/matheus/jekyllrb.com.br/wiki#traduzido). Siga as instruções nela.
+
+### Revisando
+Siga as instruções na nossa [página de wiki](https://github.com/matheus/jekyllrb.com.br/wiki#para-revisar).
+
+### Reportando erros
+Navegue pelo site traduzido [jekyllrb.com.br](https://jekyllrb.com.br), se encontrar erros reporte para o time na [página de issues](https://github.com/mattsrb/jekyllrb.com.br/issues).
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title: material
+homepage: https://github.com/naveenshaji/material
+demo: http://naveenshaji.github.io/material
+date: 2015-02-06 14:39:51
+licence_link: https://github.com/naveenshaji/material/blob/gh-pages/LICENSE.txt
+---
+#Material
+### Work In Progress.
+
+Take a sneak peek [here](http://naveenshaji.github.io/material)
+
+Material is a website/blog frontend based on Material Design.
+

@@ -1,0 +1,20 @@
+---
+layout: post
+title: vida
+homepage: https://github.com/syaning/vida
+demo: http://syaningv.com/vida/
+date: 2015-05-03 02:02:39
+licence_link: https://github.com/syaning/vida/blob/master/LICENSE
+---
+vida
+---------
+
+vida is a simple and beautiful jekyll theme.
+You can see demo [here](http://syaningv.com/vida/).
+
+> For Chinese users, you'd better modify code in `css/main.scss` to use an alternative font service because of the reason you know.
+
+### License
+
+MIT
+

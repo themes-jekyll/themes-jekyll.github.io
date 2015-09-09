@@ -1,0 +1,12 @@
+---
+layout: post
+title: jekyll_960
+homepage: https://github.com/btbytes/jekyll_960
+demo: http://btbytes.com/code/jekyll_960/
+date: 2010-01-24 08:08:08
+---
+# Jekyll_960
+
+A template for [Jekyll](http://jekyllrb.com) blogs, using the [960.gs](http://960.gs) CSS framework.
+
+

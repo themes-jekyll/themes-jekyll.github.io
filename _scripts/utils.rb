@@ -39,8 +39,8 @@ module Utils
       File.write(absolute_path(path), report)
     end
 
-    def for_each_theme
-      Dir[absolute_path('../_posts/*')].each do |file|
+    def for_each_theme(folder = '_posts')
+      Dir[absolute_path("../#{folder}/*")].each do |file|
         yield parse_front_matter(file), file
       end
     end
