@@ -1,5 +1,5 @@
 ---
-homepage: https://www.mrgreen-jekylltheme.com
+homepage: https://www.mrgreensworkshop.com
 download: https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/releases/latest
 demo: https://mrgreen-jekylltheme.mrgreensworkshop.com
 author: Mr. Green's Workshop
